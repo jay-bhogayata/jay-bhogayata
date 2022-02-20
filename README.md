@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>I'm Jay Bhogayata.</h1>
+» Currently studing in BCA . <br /> <br />
+» Learning Javascript and tailwindcss. <br /> <br />
+» Working on FrontEnd and BackEnd as well. <br /> <br />
+» Interested in Technology related stuff. <br /> <br />
 
-<!--
-**jay-bhogayata/jay-bhogayata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+[![jay's's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-bhogayata&show_icons=true&theme=react)](https://github.com/jay-bhogayata/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br /> <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-bhogayata)](https://github.com/jay-bhogayata/github-readme-stats)
