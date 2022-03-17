@@ -6,7 +6,7 @@
 ![]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-bhogayata&show_icons=true&locale=en" alt="jay-bhogayata" /></p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaybhogayata&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaybhogayata&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-bhogayata&show_icons=true&theme=dark&locale=en&layout=compact" alt="jay-bhogayata" /></p>
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
