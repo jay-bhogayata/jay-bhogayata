@@ -19,7 +19,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaybhogayata&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-bhogayata&show_icons=true&theme=dark&locale=en&layout=compact" alt="jay-bhogayata" /></p>
 
-### ✍️Random Dev Quote
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
